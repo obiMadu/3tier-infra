@@ -1,4 +1,4 @@
-# Self Hosting Project (DevOps Infra from Scratch)
+# Deploying a 3-Tier App
 
 | Designed & Built By | Website | LinkedIn |
 | ----- | ----- | ----- |
